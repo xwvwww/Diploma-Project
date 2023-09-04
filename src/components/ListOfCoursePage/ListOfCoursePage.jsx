@@ -5,14 +5,7 @@ import "firebase/compat/database";
 import "./ListOfCoursePage.css";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBtDfzHSabnWRB9ZyhiF_gA-QEN54Hz9Jk",
-  authDomain: "linguistic-project.firebaseapp.com",
-  databaseURL: "https://linguistic-project-default-rtdb.firebaseio.com",
-  projectId: "linguistic-project",
-  storageBucket: "linguistic-project.appspot.com",
-  messagingSenderId: "113108361670",
-  appId: "1:113108361670:web:e70e4819a28a4ab0fc92c7",
-  measurementId: "G-1DSMD2YDR7",
+ // firebaseConfig
 };
 
 firebase.initializeApp(firebaseConfig);
